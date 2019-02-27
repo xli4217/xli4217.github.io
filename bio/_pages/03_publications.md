@@ -30,7 +30,7 @@ Reinforcement Learning Tasks, American Control Conference (ACC), 2018. (accepted
 
 [5]. X, Li and P, Kazanzides, Task Frame Estimation during Model-Based Teleoperation for Satellite Servicing, International Conference on Robots and Automation (ICRA), 2016. (accepted) 
 
-[6]. X, Li and P, Kazanzides, Adaptive Parameter Estimation and Anomaly Detection while Cutting Insulation during Telerobotic Satellite Servicing, International Conference on Intelligent Robot and Systems (IROS), 2015. (accepted) [pdf](/assets/pdf/publications/adaptive_parameter_estimation.pdf)
+[6]. X, Li and P, Kazanzides, Parameter Estimation and Anomaly Detection while Cutting Insulation during Telerobotic Satellite Servicing, International Conference on Intelligent Robot and Systems (IROS), 2015. (accepted) [pdf](/assets/pdf/publications/adaptive_parameter_estimation.pdf)
 
 ### Book Chapter
 
