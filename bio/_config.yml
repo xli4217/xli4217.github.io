@@ -13,3 +13,4 @@ sass:
 include: ['_pages', 'assets']
 kramdown:
   input: GFM
+cover: "/assets/images/test.jpg"
