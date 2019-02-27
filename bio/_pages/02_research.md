@@ -33,9 +33,9 @@ My research interest lies at the intersection of formal methods, reinforcement l
 
 ### Reinforcement Learning With Temporal Logic Rewards
 
-- Compare the learning performance and quality of learned policies for reinforcement learning agents using temporal logic rewards with heuristic rewards.
+- Compare the learning performance and quality of learned policies for reinforcement learning agents using temporal logic rewards with those that use heuristic rewards.
 
-- Evaluate against temporal-dependent robotic manipulation tasks. The video below shows learning of a toast placing task where the robot has to learn where and when to release the bread (task specified in temporal logic).
+- Evaluate against temporal-dependent robotic manipulation tasks. The video below shows learning of a toast placing task. The robot has to learn where and when to release the bread (task specified in temporal logic).
 
 [paper](/assets/pdf/publications/Reinforcement_Learning_With_Temporal_Logic_Rewards.pdf)
 
