@@ -141,7 +141,7 @@ footer {
   left: 10px; }
 
 img.rounded {
-  object-fit: cover;
+  #object-fit: cover;
   border-radius: 50%;
   text-align: bottom;
   height: 250px;
