@@ -151,3 +151,25 @@ footer {
   top: 18px;
   left: 10px;
 }
+
+// .image-cropper {
+//     width: 100px;
+//     height: 100px;
+//     position: relative;
+//     overflow: hidden;
+//     border-radius: 50%;
+// }
+
+// img {
+//     display: inline;
+//     margin: 0 auto;
+//     height: 100%;
+//     width: auto;
+// }
+
+img.rounded {
+  object-fit: cover;
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+}

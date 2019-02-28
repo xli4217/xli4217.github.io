@@ -32,9 +32,9 @@ Reinforcement Learning Tasks, American Control Conference (ACC), 2018. (accepted
 
 [4]. X, Li, C.I.Vasile and C.Belta, Reinforcement Learning With Temporal Logic Rewards, International Conference on Intelligent Robot and Systems (IROS), 2017. (accepted) [pdf](/assets/pdf/publications/Reinforcement_Learning_With_Temporal_Logic_Rewards.pdf)
 
-[5]. X, Li and P, Kazanzides, Task Frame Estimation during Model-Based Teleoperation for Satellite Servicing, International Conference on Robots and Automation (ICRA), 2016. (accepted) 
+[5]. X, Li and P, Kazanzides, Task Frame Estimation during Model-Based Teleoperation for Satellite Servicing, International Conference on Robots and Automation (ICRA), 2016. (accepted) (accepted) [pdf](/assets/pdf/publications/taskframe.pdf)
 
-[6]. X, Li and P, Kazanzides, Parameter Estimation and Anomaly Detection while Cutting Insulation during Telerobotic Satellite Servicing, International Conference on Intelligent Robot and Systems (IROS), 2015. (accepted) [pdf](/assets/pdf/publications/adaptive_parameter_estimation.pdf)
+[6]. X, Li and P, Kazanzides, Parameter Estimation and Anomaly Detection while Cutting Insulation during Telerobotic Satellite Servicing, International Conference on Intelligent Robot and Systems (IROS), 2015. (accepted) [pdf](/assets/pdf/publications/parameter_estimation.pdf)
 
 ### Book Chapter
 

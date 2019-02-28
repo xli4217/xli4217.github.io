@@ -140,6 +140,12 @@ footer {
   top: 18px;
   left: 10px; }
 
+img.rounded {
+  object-fit: cover;
+  border-radius: 50%;
+  height: 100px;
+  width: 100px; }
+
 /**
  * Syntax highlighting styles
  */
