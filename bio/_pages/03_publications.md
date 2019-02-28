@@ -3,6 +3,10 @@ layout: page
 title: Publications
 
 permalink: /publications/
+cover_image: /assets/images/test.jpg
+header_text_color: "rbga(255, 255, 255, 1.0)"
+site_header_text_color: "rgba(105, 81, 62, 0.8)"
+site_header_border_color: "rgba(105, 81, 62, 0.5)"
 ---
 
 ### Preprints

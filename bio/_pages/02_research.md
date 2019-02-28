@@ -3,6 +3,10 @@ layout: page
 title: Research
 
 permalink: /research/
+cover_image: /assets/images/test.jpg
+header_text_color: "rbga(255, 255, 255, 1.0)"
+site_header_text_color: "rgba(105, 81, 62, 0.8)"
+site_header_border_color: "rgba(105, 81, 62, 0.5)"
 ---
 
 My research interest lies at the intersection of formal methods, reinforcement learning and robotics. Namely, how to use logic and graph based reasoning tools that formal methods provide to learn complex robotic skills. My goal is to develop useful integrations of high-level symbolic reasoning with low-level motor learning. Below are selected highlights of my current and past research.

@@ -1,8 +1,7 @@
 # Site Settings
 title: Xiao Li
 email: xli87@bu.edu
-description: >
-  A guide to getting started with Jekyll.
+description: A guide to getting started with Jekyll.
 baseurl: ""
 url: "http://xli4217.github.io"
 #twitter_username: taniarascia
