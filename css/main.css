@@ -145,6 +145,7 @@ img.rounded {
   background-size: cover;
   background-position: center;
   backgroud-attachement: scroll;
+  background-repeat: no-repeat;
   overflow: visible;
   padding: 0;
   border-radius: 50%;
@@ -152,7 +153,7 @@ img.rounded {
   height: 30vh;
   max-height: 200px;
   # width: 100%;
-  margin: 350px -230px 0;
+  # margin: 350px -230px 0;
   top: 70px;
   # max-height: 467px;
   position: absolute; }
