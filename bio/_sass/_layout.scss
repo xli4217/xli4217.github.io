@@ -168,11 +168,19 @@ footer {
 // }
 
 img.rounded {
-  #object-fit: cover;
+  object-fit: contain;
+  background-size:cover;
+  background-position:center;
+  backgroud-attachement:scroll;
+  overflow:visible;
+  padding:0;
   border-radius: 50%;
   text-align: bottom;
-  height: 250px;
-  width: 300px;
+  height: 30vh;
+  max-height: 200px;
+ # width: 100%;
   margin:350px -230px 0;
+  top: 70px;
+ # max-height: 467px;
   position: absolute;
 }
