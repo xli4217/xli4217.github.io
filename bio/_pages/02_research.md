@@ -11,6 +11,19 @@ site_header_border_color: "rgba(105, 81, 62, 0.5)"
 
 My research interest lies at the intersection of formal methods, reinforcement learning and robotics. Namely, how to use logic and graph based reasoning tools that formal methods provide to learn complex robotic skills. My goal is to develop useful integrations of high-level symbolic reasoning with low-level motor learning. Below are selected highlights of my current and past research.
 
+### Temporal  Logic  Guided  Safe  Reinforcement  Learning  Using  Control Barrier  Functions
+
+- Propose a system that integrates temporal logic guided reinforcement learning with control barrier functions and control Lyapunov functions
+
+- Introduce three ways to use temporal logic and its equivalent finite state automata (FSA) in our system - provide reward for the RL agent, perform goal se- lection for the control Lyapunov function for guided exploration and define safe sets for the control barrier functions
+
+- Demonstrate the applicability of our framework in a simulated continuous control task with safety con- straints, known system dynamics and unknown environ- mental dynamics, and study the use and effectiveness of each component in the system.
+
+[paper](/assets/pdf/publications/Temporal  Logic  Guided  Safe  Reinforcement  Learning  Using  ControlBarrier  Functions.pdf)
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lUsE3hGpLAk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Hierarchical Temporal Logic Guided Reinforcement Learning
 
 - Provide a hierarchical approach for task definition.
