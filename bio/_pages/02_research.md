@@ -17,7 +17,7 @@ My research interest lies at the intersection of formal methods, reinforcement l
 
 - Introduce three ways to use temporal logic and its equivalent finite state automata (FSA) in our system - provide reward for the RL agent, perform goal selection for the control Lyapunov function for guided exploration and define safe sets for the control barrier functions
 
-- Demonstrate the applicability of our framework in a simulated continuous control task with safety constraints, known system dynamics and unknown environmental dynamics, and study the use and effectiveness of each component in the system.
+- Demonstrate the applicability of our framework in a simulated continuous control task with safety con- straints, known system dynamics and unknown environ- mental dynamics, and study the use and effectiveness of each component in the system.
 
 [paper](/assets/pdf/publications/Temporal  Logic  Guided  Safe  Reinforcement  Learning  Using  ControlBarrier  Functions.pdf)
 
