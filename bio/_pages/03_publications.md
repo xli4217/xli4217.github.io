@@ -25,7 +25,7 @@ Time-Sensitive Tasks, 2016. online access at arXiv:1711.00129. [pdf](/assets/pdf
 
 ### Journal
 
-[1]. X. Li, Z. Serlin, Y. Guang and C.Belta,A Formal Methods Approach to Interpretable Reinforcement Learning for Robotic Planning,Science Robotics Special Issuein Explainable AI, 2019. (under review)
+[1]. X. Li, Z. Serlin, Y. Guang and C.Belta, A Formal Methods Approach to Interpretable Reinforcement Learning for Robotic Planning,Science Robotics (Special Issue in Explainable AI), 2019. [pdf](/assets/pdf/publications/science_robotics.pdf)
 
 
 [2]. C.I.Vasile, X. Li and C.Belta, Reactive Sampling-Based Path Planning with Temporal Logic Specifications, International Journal of Robotics Research (IJRR), 2019. (under review)
